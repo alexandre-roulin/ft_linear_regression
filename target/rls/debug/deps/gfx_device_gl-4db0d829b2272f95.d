@@ -1,0 +1,11 @@
+c:\Users\Kryssou\linear_regression\target\rls\debug\deps\gfx_device_gl-4db0d829b2272f95.rmeta: C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\lib.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\command.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\factory.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\info.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\shade.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\state.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\tex.rs
+
+c:\Users\Kryssou\linear_regression\target\rls\debug\deps\gfx_device_gl-4db0d829b2272f95.d: C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\lib.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\command.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\factory.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\info.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\shade.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\state.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\tex.rs
+
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\lib.rs:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\command.rs:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\factory.rs:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\info.rs:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\shade.rs:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\state.rs:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.11.2\src\tex.rs:

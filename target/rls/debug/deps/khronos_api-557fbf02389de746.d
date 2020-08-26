@@ -1,0 +1,11 @@
+c:\Users\Kryssou\linear_regression\target\rls\debug\deps\khronos_api-557fbf02389de746.rmeta: C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\lib.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/gl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/egl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/wgl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/glx.xml
+
+c:\Users\Kryssou\linear_regression\target\rls\debug\deps\libkhronos_api-557fbf02389de746.rlib: C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\lib.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/gl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/egl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/wgl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/glx.xml
+
+c:\Users\Kryssou\linear_regression\target\rls\debug\deps\khronos_api-557fbf02389de746.d: C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\lib.rs C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/gl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/egl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/wgl.xml C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/glx.xml
+
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\lib.rs:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/gl.xml:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/egl.xml:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/wgl.xml:
+C:\Users\Kryssou\.cargo\registry\src\github.com-1ecc6299db9ec823\khronos_api-1.0.1\src\../api/glx.xml:
