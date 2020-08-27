@@ -1,0 +1,23 @@
+
+<html>
+ <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Ft_Linear_Regression</title>
+<script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.min.js"></script>
+</head>
+</body>
+<h1>Ft_Linear_Regression</h1>
+<h2 style='text-align: center;width:800px'>Price Y and Mileage in X</h2>
+<div id="plot1" style="width:800px;height:300px"></div>
+<script type="text/javascript">
+$(function () {
+var plot_1 = {"label":"Initial Data","data":[[240000,3650],[139800,3800],[150500,4400],[185530,4450],[176000,5250],[114800,5350],[166800,5800],[89000,5990],[144500,5999],[84000,6200],[82029,6390],[63060,6390],[74000,6600],[97500,6800],[67000,6800],[76025,6900],[48235,6900],[93000,6990],[60949,7490],[65674,7555],[54000,7990],[68500,7990],[22899,7990],[61789,8290]],"points":{"show":true}};
+var plot_2 = {"label":"Prediction","data":[[42000,7505.71643268819],[100000,6325.025205888754],[38600,7574.929366672985]],"points":{"show":true},"color":"red"};
+var plot_3 = {"label":"Linear regression","data":[[22899,7894.550624465709],[240000,3475.0808653383876]],"lines":{"show":true,"fill":0,"lineWidth":1}};
+var plot_options = {};
+$.plot($("#plot1"),[plot_1,plot_2,plot_3],plot_options);
+});
+</script>
+</body>
+</html>
